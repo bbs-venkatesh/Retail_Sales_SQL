@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales SQL Project
 
 ## Project Overview
 
@@ -6,7 +6,6 @@
 **Level**: Beginner  
 **Database**: `p1_retail_db`
 
-# Retail Sales SQL Analysis
 
 This project showcases SQL skills applied to a sample retail sales dataset. It answers key business questions using SQL queries involving aggregation, grouping, window functions, and CTEs. The project is designed as part of my data analyst portfolio.
 
